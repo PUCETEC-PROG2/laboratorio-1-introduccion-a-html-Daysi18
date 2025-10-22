@@ -5,7 +5,7 @@
 Crear una página web simple usando únicamente HTML que funcione como tu portafolio personal.
 
 ## Datos del estudiante
-**Nombre:** [Daysi Loachamin]
+**Nombre:** Daysi Loachamin
 **Carrera:** Desarrollo de Software
 
 ## Instrucciones
